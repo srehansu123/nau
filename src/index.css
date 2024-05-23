@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+.MuiTableRow-root {
+  transition: background-color 0.3s ease;
+}
+
+.MuiTableRow-root:hover {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+.MuiTableCell-root {
+  transition: background-color 0.3s ease;
+}
